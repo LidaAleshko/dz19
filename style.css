@@ -1,0 +1,4 @@
+.isDone .todo_task_content {
+    text-decoration: line-through;
+    color: red;
+}
